@@ -41,7 +41,7 @@
 
 1. 
  - [storage.tf](https://github.com/v1us1885/clopro-homeworks-15.2/blob/main/storage.tf)   
- - [image](image_url = "https://storage.yandexcloud.net/filatovav-07-12-2024/1.jpg)  
+ - [image](https://storage.yandexcloud.net/filatovav-07-12-2024/1.jpg)  
  - ![](Screenshot_1.png)   
 
 2. 
